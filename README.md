@@ -1,6 +1,7 @@
-Hello, my name is Creeper (or ThatOneDonder if you will)
+Hello, my name is Creeper!
 
-Tinkering with tech is one of my biggest hobbies, along with coding
+Tinkering with tech is one of my biggest hobbies, along with coding.
+There are still a lot of things I want to explore and experiment, including parts of my imagination.
 
 ```
 PC SPECIFICATIONS
