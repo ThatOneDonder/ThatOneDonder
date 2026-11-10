@@ -9,6 +9,7 @@ PC SPECIFICATIONS
  - Arch Linux x86_64
  - 10x Intel(R) Core(TM) Ultra 5 225F
  - 32 GB RAM (DDR5)
+ - 2TB WD Green SSD
  - NVIDIA GeForce RTX 5060 (discrete)
  - B860M MAX GAMING AX Motherboard
 
