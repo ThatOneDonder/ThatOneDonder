@@ -4,7 +4,7 @@ Tinkering with tech is one of my biggest hobbies, along with coding.
 There are still a lot of things I want to explore and experiment, including parts of my imagination.
 
 ```
-**PC SPECIFICATIONS**
+--PC SPECIFICATIONS--
 
 1. Main PC
  - Arch Linux x86_64
